@@ -8,10 +8,8 @@
  - UILabel
  - UIButton
  - UIImageView
- - UICollectionView
- - UITableViewDelegate
- - UITableViewDataSource
- - UICollectionViewFlowLayout
+ - UIView
+ - UIAlertView
 
  #### Output
  
